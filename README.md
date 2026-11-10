@@ -4,6 +4,8 @@ A strategy paper on how Google Cloud could deploy AI inside its own go-to-market
 
 Written for MGMT 7019 at the University of Cincinnati (2026). It is a course project built from public information, framed as advice to a senior management team. It is not an internal Google document.
 
+**Timeline:** completed March 1, 2026 (MGMT 7019 final project). Published here in November 2026, with the page header changed to mark it as a course project.
+
 **Read the paper:** [`GCP_AI_Implementation_Framework.pdf`](GCP_AI_Implementation_Framework.pdf) (17 pages)
 
 ## The argument in brief
